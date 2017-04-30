@@ -1,0 +1,28 @@
+#main{
+        width:90%;
+        margin:50px auto;
+        font-family: Georgia, Times, serif;
+        text-align:center;
+        border: 1px double #cccccc;
+    }
+  h2 {
+        font-size: 26px;
+        font-weight: normal;
+        line-height: 1.4em;
+        margin: 0.25em 0 0;
+        padding: 0 0 4px;
+        text-shadow: 1px 1px 0 white;
+    }
+    h2.head{
+        border-bottom: 1px dotted #cccccc;
+        color:#333333;
+    }
+     #spin h2{
+        width:80%;
+        padding-left:400px;
+        margin:50px auto;
+        text-align:left;
+    }
+     #spin h2{
+        color: #888888;
+    }
