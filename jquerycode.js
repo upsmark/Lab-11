@@ -4,7 +4,7 @@ $(document).ready(function() {
             var status;                    //expanding or contracting
             var max_spacing = 10;        //maximum expansion on right
             var min_spacing = -30;        //maximum expansion on left
-            var el = $('#spin');        //element to be spinned
+            var el = $('.spin');        //element to be spinned
             _spacing = parseFloat(el.css('letter-spacing'));    //get the current spacing
 
             //start the spin effect

@@ -14,15 +14,16 @@
         text-shadow: 1px 1px 0 white;
     }
     h2.head{
+        
         border-bottom: 1px dotted #cccccc;
         color:#333333;
     }
-     #spin h2{
+     .spin h2{
         width:80%;
         padding-left:400px;
         margin:50px auto;
         text-align:left;
     }
-     #spin h2{
+     .spin h2{
         color: #888888;
     }
